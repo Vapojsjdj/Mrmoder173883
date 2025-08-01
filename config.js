@@ -3,10 +3,10 @@ export const config = {
     API_KEY: "AIzaSyCH3t-PK-syEy-8x94GY8PLSPmBGCq7324",  // Your API key
     UPDATE_INTERVAL: 5000,  // Update messages every 5 seconds
     MAX_CHAT_MESSAGES: 100,  // Maximum messages displayed
-    DOWNLOAD_LINK: "https://example.com/download", // Download link to show after finding user
+    DOWNLOAD_LINK: "https://up-4.net/d/yPR8", // Download link to show after finding user
     DEFAULT_VIDEO_ID: "KbH9d0PwEdA", // Default video ID
     HARDCODED_CHAT_ID: "", // Hardcoded chatId for default video - set to empty to always fetch via API
-    FILE_NAME: "YourAwesomeFile.zip", // Display name of the download file
+    FILE_NAME: "ملف_مستر_مودر.zip", // Display name of the download file
     FILE_SIZE: "15.3 MB", // Display size of the download file
     RANDOM_KEYWORDS: [
         "hello", "awesome", "great", "thanks", "cool",
